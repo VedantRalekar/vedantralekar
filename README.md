@@ -13,8 +13,8 @@
 
 ## 🌟 About Me
 - 🔭 Currently building Android apps using **Kotlin + Firebase**  
-- 🌱 Learning **Spring Boot** & advanced Android development  
-- 💬 Ask me about **Android, Firebase, Kotlin, or Java**  
+- 🌱 Learning DSA & advanced Android development  
+- 💬 Ask me about **Android, Firebase, Kotlin, C++, SQL, MySQL or Java**  
 - ⚡ Fun fact: I enjoy solving **logic problems in C++**  
 
 ---
