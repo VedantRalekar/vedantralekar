@@ -18,7 +18,22 @@
 - ⚡ Fun fact: I enjoy solving **logic problems in C++**  
 
 ---
+---
 
+## 🔗 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/vedant-ralekar-458035267/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:ralekaru@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/vedant-ralekar">
+    <img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
+
+---
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,kotlin,androidstudio,firebase,mysql,git,github,idea,vscode&perline=6" />
@@ -39,22 +54,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=vedant-ralekar&theme=onedark&row=1&column=6" alt="Trophies" />
 </p>
 
----
 
-## 🔗 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/vedant-ralekar-458035267/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="mailto:ralekaru@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/vedant-ralekar">
-    <img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
-
----
 
 <p align="center">✨ Thanks for visiting my profile! Have a great day! ✨</p>
 
