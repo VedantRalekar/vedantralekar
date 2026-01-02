@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Vedant Ralekar</h1>
-<h3 align="center">🚀 Android App Developer | Software Developer</h3>
+<h3 align="center">🚀Backend Developer |Android app Developer | Software Developer</h3>
 
 <!-- Typing Animation -->
 <p align="center">
