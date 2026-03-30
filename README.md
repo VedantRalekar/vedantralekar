@@ -5,7 +5,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&center=true&vCenter=true&width=550&lines=Android+Developer;Software+Developer;C%2B%2B+%7C+Java+%7C+Kotlin+%7C+SQL+%7C+Firebase;Love+to+build+cool+projects+💡" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&center=true&vCenter=true&width=550&lines=Backend+Developer;Android+Developer;Software+Developer;C%2B%2B+%7C+Java+%7C+Kotlin+%7C+SQL+%7C+Firebase;Love+to+build+cool+projects+💡" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,8 +13,8 @@
 
 ## 🌟 About Me
 - 🔭 Currently building Android apps using **Kotlin + Firebase**  
-- 🌱 Learning DSA & advanced Android development  
-- 💬 Ask me about **Android, Firebase, Kotlin, C++, SQL, MySQL or Java**  
+- 🌱 Learning DSA, GenAI & Backend development. 
+- 💬 Ask me about ** NodeJs, ExpressJs, Redis, MongoDB, Android, Firebase, Kotlin, C++, SQL, MySQL or Java**  
 - ⚡ Fun fact: I enjoy solving **logic problems in C++**  
 
 ---
