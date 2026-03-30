@@ -1,60 +1,12 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Vedant Ralekar</h1>
-<h3 align="center">🚀Backend Developer |Android app Developer | Software Developer</h3>
+# Tech Stack
 
-<!-- Typing Animation -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&center=true&vCenter=true&width=550&lines=Backend+Developer;Android+Developer;Software+Developer;C%2B%2B+%7C+Java+%7C+Kotlin+%7C+SQL+%7C+Firebase;Love+to+build+cool+projects+💡" alt="Typing SVG" />
-  </a>
-</p>
-
----
-
-## 🌟 About Me
-- 🔭 Currently building Android apps using **Kotlin + Firebase**  
-- 🌱 Learning DSA, GenAI & Backend development. 
-- 💬 Ask me about ** NodeJs, ExpressJs, Redis, MongoDB, Android, Firebase, Kotlin, C++, SQL, MySQL or Java**  
-- ⚡ Fun fact: I enjoy solving **logic problems in C++**  
-
----
----
-
-## 🔗 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/vedant-ralekar-458035267/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="mailto:ralekaru@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/vedant-ralekar">
-    <img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
-
----
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,kotlin,androidstudio,firebase,mysql,git,github,idea,vscode&perline=6" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedant-ralekar&show_icons=true&theme=tokyonight" alt="stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-ralekar&layout=compact&theme=tokyonight" alt="langs" height="180"/>
-</p>
-
----
-
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vedant-ralekar&theme=onedark&row=1&column=6" alt="Trophies" />
-</p>
-
-
-
-<p align="center">✨ Thanks for visiting my profile! Have a great day! ✨</p>
-
+- ![MongoDB](https://img.shields.io/badge/MongoDB-4.0&nbsp;-%2347A248?style=flat&logo=mongodb&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/Node.js-12.0&nbsp;-%2343853B?style=flat&logo=node.js&logoColor=white)
+- ![Express.js](https://img.shields.io/badge/Express.js-4.0&nbsp;-%234B251B?style=flat&logo=express&logoColor=white)
+- ![Redis](https://img.shields.io/badge/Redis-6.0&nbsp;-%23C72E29?style=flat&logo=redis&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3.0&nbsp;-%233B8EB6?style=flat&logo=python&logoColor=white)
+- ![NumPy](https://img.shields.io/badge/NumPy-1.0&nbsp;-%234B70B6?style=flat&logo=numpy&logoColor=white)
+- ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.0&nbsp;-%23B77F6A?style=flat&logo=matplotlib&logoColor=white)
+- ![Pandas](https://img.shields.io/badge/Pandas-1.0&nbsp;-%23E9B1E4?style=flat&logo=pandas&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-20.0&nbsp;-%2327B4C4?style=flat&logo=docker&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-ES6&nbsp;-%23F7DF1E?style=flat&logo=javascript&logoColor=white)
