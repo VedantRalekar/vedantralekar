@@ -34,59 +34,52 @@
 </p>
 
 ---
+
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,kotlin,python,javascript&perline=5" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,kotlin,python,javascript,nodejs,express,mongodb,redis,mysql,firebase,androidstudio,docker,git,github,idea,vscode,linux,tensorflow&perline=9" />
 </p>
 
-### 🚀 Backend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,mysql,firebase&perline=6" />
-</p>
-
-### 📱 Mobile Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java&perline=3" />
-</p>
-
-### 🐍 Data Science & AI
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow&perline=2" />
-  <br>
   <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Matplotlib-11557c?logo=python&logoColor=white&style=for-the-badge" />
-</p>
-
-### 🐳 DevOps & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,idea,vscode,linux&perline=6" />
+  <img src="https://img.shields.io/badge/-REST%20API-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedant-ralekar&show_icons=true&theme=tokyonight" alt="stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-ralekar&layout=compact&theme=tokyonight" alt="langs" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vedant-ralekar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-ralekar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="langs" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedant-ralekar&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" width="70%" />
 </p>
 
 ---
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vedant-ralekar&theme=onedark&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vedant-ralekar&theme=onedark&row=1&column=6&no-frame=true" alt="Trophies" />
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 💡 Fun Corner
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedant-ralekar&theme=tokyo-night&hide_border=true&area=true" width="90%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vedant-ralekar&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
 
 <p align="center">✨ Thanks for visiting my profile! Have a great day! ✨</p>
