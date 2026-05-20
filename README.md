@@ -12,7 +12,7 @@
 ---
 
 ## 🌟 About Me
-- 🔭 Currently building Android apps using **Kotlin + Firebase**  
+- 🔭 Currently building Scalable Backend Systems and adding AI features.
 - 🌱 Learning DSA, GenAI & Backend development. 
 - 💬 Ask me about **NodeJs, ExpressJs, Redis, MongoDB, Android, Firebase, Kotlin, C++, SQL, MySQL or Java**  
 - ⚡ Fun fact: I enjoy solving **logic problems in C++**  
